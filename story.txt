@@ -1,1 +1,4 @@
 There once was a college student who really needed to be working on project 2 but also needed to write a story for another project in the same class. "I really hope that the story part of this project doesn't count too much towards our grade, I've never been good at creative writing and I feel like this proof that we can use github could have been acomplished just by typing our names or something in the same file", he thought. "Having said that, I would have probably enjoyed this assignment more if I hadn't procrasinated", he considered. He really hoped this was long enough.
+
+
+He was on an x-team with another college student who did not even finish project 2, so he felt less worried about this project. However, this other college student lives in Pennsylvania, so he is worried about how CS400 will continue. Regardless, the original college student need not worry about this, as through the power of the internet, this x-team will succeed!
